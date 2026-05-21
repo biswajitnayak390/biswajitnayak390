@@ -1,48 +1,48 @@
-# Hi there, I'm Biswajit Nayak
+# Hi there 👋 I'm Biswajit Nayak
 
-## Senior Sitecore XM Cloud & Headless Developer | React/Next.js | Azure AI Engineer
+## Senior Sitecore XM Cloud & Headless Developer | React.js | Next.js | Azure AI Engineer
 
-I am a Full Stack Sitecore Developer focused on building enterprise-grade digital experience platforms using Sitecore XM Cloud, Sitecore JSS, React.js, Next.js, ASP.NET MVC, .NET, REST APIs, and Azure AI.
+Experienced Full Stack Developer focused on building enterprise-grade digital experience platforms using Sitecore XM Cloud, Sitecore JSS, React.js, Next.js, ASP.NET MVC, .NET, REST APIs, and Azure AI.
 
-I enjoy working on scalable, secure, SEO-friendly, and API-driven web platforms for modern digital experiences.
-
----
-
-## What I Do
-
-- Sitecore XM Cloud and Headless CMS development
-- Sitecore JSS with React and Next.js implementation
-- Enterprise API integrations
-- Multilingual and multi-region website implementation
-- Composable DXP architecture
-- Azure AI based digital solutions
-- ASP.NET MVC and .NET full stack development
-- Performance optimization and secure coding practices
+I specialize in scalable, secure, multilingual, SEO-friendly, and API-driven web platforms for modern digital experiences.
 
 ---
 
-## Portfolio Website
+# 🚀 About Me
 
-### AutonodeAI
+- Specialized in Sitecore XM Cloud & Headless CMS
+- Building enterprise React.js and Next.js applications
+- Working on composable DXP architecture
+- Exploring AI-powered automation and intelligent digital experiences
+- Experienced in enterprise API integrations and multilingual implementation
+- Focused on performance optimization and secure coding practices
 
-AutonodeAI is my portfolio and digital experience engineering initiative focused on modern enterprise websites, headless CMS, Sitecore, React/Next.js, and AI automation.
+---
 
-Website: https://autonodeai.com
+# 🌐 Portfolio Website
 
-Focus areas:
+## AutonodeAI
+
+AutonodeAI is my digital experience engineering and AI-focused portfolio initiative.
+
+Main focus areas:
 
 - AI-powered digital experience engineering
 - Enterprise website development
-- Sitecore XM Cloud and Headless CMS implementation
-- React and Next.js frontend engineering
-- Azure AI integrations
-- SEO-friendly and high-performance web platforms
+- Sitecore XM Cloud implementation
+- Headless CMS architecture
+- React.js and Next.js frontend engineering
+- Azure AI integration
+- SEO-friendly and scalable web platforms
+
+Portfolio Website:
+https://autonodeai.com
 
 ---
 
-## Tech Stack
+# 🧰 Tech Stack
 
-### CMS and DXP
+## CMS / DXP
 - Sitecore XM Cloud
 - Sitecore XP/XM
 - Sitecore JSS
@@ -51,7 +51,7 @@ Focus areas:
 - Experience Edge
 - Composable DXP
 
-### Frontend
+## Frontend
 - React.js
 - Next.js
 - JavaScript
@@ -60,15 +60,16 @@ Focus areas:
 - CSS3
 - Bootstrap
 
-### Backend
+## Backend
 - C#
 - ASP.NET MVC
 - .NET Core
 - REST APIs
 - SQL Server
 
-### AI and Cloud
+## AI & Cloud
 - Azure AI
+- OpenAI Integration
 - AI Chatbots
 - Automation Workflows
 - Vercel
@@ -76,7 +77,7 @@ Focus areas:
 
 ---
 
-## Certifications
+# 🏆 Certifications
 
 - Microsoft Azure AI Engineer Associate
 - Microsoft Azure Developer Associate
@@ -86,36 +87,32 @@ Focus areas:
 
 ---
 
-## Professional Focus
+# 💼 Enterprise Experience
 
-Currently focusing on:
+Experienced in:
+
+- Enterprise CMS implementation
+- Headless architecture
+- Multilingual and multi-region websites
+- Dealer locator and API integration systems
+- Secure enterprise forms and OTP workflows
+- Performance optimization and SEO improvements
+- AI-enabled digital experience engineering
+
+---
+
+# 📌 Current Focus
 
 - AI-enabled enterprise engineering
-- Headless CMS architecture
-- Sitecore XM Cloud implementation
-- React and Next.js enterprise platforms
+- Sitecore XM Cloud architecture
+- Headless CMS implementation
+- React.js and Next.js enterprise platforms
 - Composable DXP solutions
-- AI integration in digital experiences
-- Secure and scalable API-driven platforms
+- Azure AI integration
 
 ---
 
-## Featured Expertise
-
-- Enterprise CMS Development
-- Sitecore XM Cloud
-- Headless Architecture
-- AI-Powered Applications
-- Full Stack Development
-- API Integrations
-- Multilingual Platforms
-- Security and Performance Optimization
-- Technical SEO
-- Cloud-ready Web Platforms
-
----
-
-## Connect With Me
+# 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/biswajit-nayak-510798146/
 - GitHub: https://github.com/biswajitnayak390
@@ -123,4 +120,4 @@ Currently focusing on:
 
 ---
 
-Building modern AI-powered digital experiences with Sitecore, React, Next.js, .NET, and Azure AI.
+Building modern AI-powered digital experiences with Sitecore, React.js, Next.js, .NET, and Azure AI.
