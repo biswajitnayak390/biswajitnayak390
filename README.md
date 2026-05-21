@@ -40,6 +40,42 @@ https://autonodeai.com
 
 ---
 
+# 🤖 Modern AI Engineering Focus
+
+Currently learning and building projects around:
+
+## Retrieval-Augmented Generation (RAG)
+- AI-powered enterprise knowledge systems
+- Vector database integration
+- Semantic search implementation
+- Document-aware AI assistants
+- Enterprise AI search architecture
+
+## AI + CMS Integration
+- AI-powered content generation
+- Intelligent CMS workflows
+- AI-assisted personalization
+- Smart content recommendations
+- AI-enabled headless CMS platforms
+
+## AI Engineering Stack
+- Azure OpenAI
+- OpenAI APIs
+- LangChain
+- FastAPI
+- Vector Databases
+- AI Agents
+- Workflow Automation
+
+## Enterprise AI Projects
+- AI-powered Sitecore assistant
+- AI search for enterprise CMS
+- RAG-based knowledge assistant
+- AI-enabled digital experience platforms
+- Intelligent multilingual content workflows
+
+---
+
 # 📌 Featured Focus Areas
 
 ## AI + Headless CMS
@@ -92,12 +128,15 @@ https://autonodeai.com
 - .NET Core
 - REST APIs
 - SQL Server
+- FastAPI
 
 ## AI & Cloud
 - Azure AI
 - OpenAI Integration
 - AI Chatbots
-- Automation Workflows
+- Workflow Automation
+- LangChain
+- Vector Databases
 - Vercel
 - Azure DevOps
 
@@ -137,6 +176,8 @@ Currently focusing on:
 - React.js and Next.js enterprise platforms
 - Composable DXP solutions
 - Azure AI integration
+- Retrieval-Augmented Generation (RAG)
+- Enterprise AI assistants
 - API-driven digital experiences
 - Enterprise architecture patterns
 
@@ -150,4 +191,4 @@ Currently focusing on:
 
 ---
 
-Building modern AI-powered digital experiences with Sitecore, React.js, Next.js, .NET, and Azure AI.
+Building modern AI-powered digital experiences with Sitecore, React.js, Next.js, .NET, Azure AI, and enterprise AI solutions.
