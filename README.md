@@ -40,6 +40,32 @@ https://autonodeai.com
 
 ---
 
+# 📌 Featured Focus Areas
+
+## AI + Headless CMS
+- AI-powered digital experiences
+- Intelligent enterprise workflow automation
+- AI-enabled content engineering
+- Azure AI integrations
+
+## Enterprise Sitecore Engineering
+- Sitecore XM Cloud
+- Sitecore JSS
+- Headless CMS implementation
+- Experience Edge
+- Composable DXP
+- Multilingual implementation
+
+## Full Stack Engineering
+- React.js
+- Next.js
+- ASP.NET MVC
+- .NET Core
+- REST APIs
+- SQL Server
+
+---
+
 # 🧰 Tech Stack
 
 ## CMS / DXP
@@ -101,7 +127,9 @@ Experienced in:
 
 ---
 
-# 📌 Current Focus
+# 📈 Current Professional Direction
+
+Currently focusing on:
 
 - AI-enabled enterprise engineering
 - Sitecore XM Cloud architecture
@@ -109,6 +137,8 @@ Experienced in:
 - React.js and Next.js enterprise platforms
 - Composable DXP solutions
 - Azure AI integration
+- API-driven digital experiences
+- Enterprise architecture patterns
 
 ---
 
