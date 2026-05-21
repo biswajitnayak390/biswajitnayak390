@@ -40,6 +40,95 @@ https://autonodeai.com
 
 ---
 
+# 🤖 AI-Focused Enterprise Projects
+
+## AI-Powered Sitecore Content Assistant
+
+Enterprise AI assistant for Sitecore XM Cloud and Headless CMS platforms.
+
+Features:
+- AI-assisted content generation
+- Smart content recommendations
+- Multilingual AI workflows
+- Content summarization
+- AI-powered SEO suggestions
+- OpenAI and Azure AI integration
+
+Tech Stack:
+- Sitecore XM Cloud
+- React.js
+- Next.js
+- OpenAI APIs
+- Azure AI
+- REST APIs
+
+---
+
+## RAG-Based Enterprise Knowledge Assistant
+
+Retrieval-Augmented Generation (RAG) platform for enterprise knowledge management.
+
+Features:
+- Semantic enterprise search
+- AI document assistant
+- Context-aware AI responses
+- Vector database integration
+- Enterprise knowledge indexing
+- Intelligent search workflows
+
+Tech Stack:
+- FastAPI
+- LangChain
+- Vector Databases
+- Azure OpenAI
+- Python
+- REST APIs
+
+---
+
+## AI-Powered Headless CMS Platform
+
+Modern AI-enabled composable DXP and headless CMS implementation.
+
+Features:
+- AI-powered personalization
+- Smart content delivery
+- Headless API architecture
+- AI-assisted search
+- Intelligent recommendation engine
+- Enterprise content workflows
+
+Tech Stack:
+- Sitecore JSS
+- Next.js
+- Headless CMS
+- Azure AI
+- GraphQL APIs
+- Enterprise API integrations
+
+---
+
+## Intelligent Multilingual Content Platform
+
+AI-assisted multilingual content engineering and localization system.
+
+Features:
+- AI-assisted translation workflows
+- Multilingual content management
+- Smart localization engine
+- SEO-aware content adaptation
+- Intelligent language switching
+- Global enterprise content workflows
+
+Tech Stack:
+- Sitecore XM Cloud
+- React.js
+- Azure AI Translator
+- REST APIs
+- Enterprise CMS workflows
+
+---
+
 # 🤖 Modern AI Engineering Focus
 
 Currently learning and building projects around:
@@ -66,13 +155,6 @@ Currently learning and building projects around:
 - Vector Databases
 - AI Agents
 - Workflow Automation
-
-## Enterprise AI Projects
-- AI-powered Sitecore assistant
-- AI search for enterprise CMS
-- RAG-based knowledge assistant
-- AI-enabled digital experience platforms
-- Intelligent multilingual content workflows
 
 ---
 
