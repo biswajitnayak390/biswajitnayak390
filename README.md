@@ -25,6 +25,9 @@ I specialize in scalable, secure, multilingual, SEO-friendly, and API-driven web
 
 AutonodeAI is my digital experience engineering and AI-focused portfolio initiative.
 
+Portfolio Website:
+https://autonodeai.com
+
 Main focus areas:
 
 - AI-powered digital experience engineering
@@ -35,8 +38,37 @@ Main focus areas:
 - Azure AI integration
 - SEO-friendly and scalable web platforms
 
-Portfolio Website:
-https://autonodeai.com
+---
+
+# ⭐ Featured AI Portfolio Repositories
+
+## Enterprise RAG Platform
+
+Python-first enterprise Retrieval-Augmented Generation platform using FastAPI, semantic retrieval, enterprise knowledge indexing, and API-driven AI architecture.
+
+Repository:
+https://github.com/biswajitnayak390/enterprise-rag-platform
+
+## AI CMS RAG Studio
+
+AI + CMS portfolio project focused on RAG, semantic search, content intelligence, headless CMS workflows, and enterprise DXP architecture.
+
+Repository:
+https://github.com/biswajitnayak390/ai-cms-rag-studio
+
+## Sitecore AI Assistant
+
+AI assistant concept for Sitecore XM Cloud and Headless CMS teams, focused on AI-powered content generation, SEO suggestions, and multilingual workflows.
+
+Repository:
+https://github.com/biswajitnayak390/sitecore-ai-assistant
+
+## AI Headless CMS
+
+Modern AI-enabled headless CMS and composable DXP project focused on intelligent content workflows, personalization, and API-first architecture.
+
+Repository:
+https://github.com/biswajitnayak390/ai-headless-cms
 
 ---
 
@@ -62,11 +94,9 @@ Tech Stack:
 - Azure AI
 - REST APIs
 
----
-
 ## RAG-Based Enterprise Knowledge Assistant
 
-Retrieval-Augmented Generation (RAG) platform for enterprise knowledge management.
+Retrieval-Augmented Generation platform for enterprise knowledge management.
 
 Features:
 - Semantic enterprise search
@@ -83,8 +113,6 @@ Tech Stack:
 - Azure OpenAI
 - Python
 - REST APIs
-
----
 
 ## AI-Powered Headless CMS Platform
 
@@ -105,27 +133,6 @@ Tech Stack:
 - Azure AI
 - GraphQL APIs
 - Enterprise API integrations
-
----
-
-## Intelligent Multilingual Content Platform
-
-AI-assisted multilingual content engineering and localization system.
-
-Features:
-- AI-assisted translation workflows
-- Multilingual content management
-- Smart localization engine
-- SEO-aware content adaptation
-- Intelligent language switching
-- Global enterprise content workflows
-
-Tech Stack:
-- Sitecore XM Cloud
-- React.js
-- Azure AI Translator
-- REST APIs
-- Enterprise CMS workflows
 
 ---
 
